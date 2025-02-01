@@ -1,31 +1,17 @@
+# BTC RBF Transfer - A Bitcoin Backend with Replace-by-Fee (RBF) Support
 
-# BTC RBF Transfer
+This backend empowers you to use **Replace-by-Fee (RBF)** for Bitcoin transactions. It’s a powerful tool for adjusting your Bitcoin transaction fees to ensure timely confirmations, giving you greater control over your Bitcoin transfers.
 
-This Backend provides RBF in Bitcoin network. You can tx RBF use this Node Backend.
+With this Node.js backend, you can easily initiate and manage RBF transactions on the Bitcoin network.
 
-## Technologies Used
+## 🚀 Technologies Used
 
-- **Node.js**: A JavaScript runtime environment for building scalable and efficient server-side applications.
-- **Bitcoinjs-lib.js**: A minimalist web framework for Node.js, providing a robust set of features for web and mobile applications.
+- **Node.js**: A fast and efficient JavaScript runtime that enables you to build scalable and server-side applications.
+- **Bitcoinjs-lib**: A minimalist and reliable Bitcoin library for JavaScript, allowing you to easily create and sign Bitcoin transactions, including those using RBF.
 
-## Getting Started
+## 💬 Contact & Support
 
-1. **Clone the repository**:
+If you have any questions, need help, or just want to chat about the project, feel free to reach out!
 
-   ```
-   git clone https://github.com/FCBtc1116/Bitcoin-RBF.git
-   ```
-
-2. **Install dependencies**:
-
-   ```
-   cd your-project
-   npm install
-   ```
-3. **Start the server**:
-
-   ```
-   npm start
-   ```
- 
- 
+- **Email**: [sakelejames@gmail.com](mailto:sakelejames@gmail.com)
+- **Telegram**: [@ptcbink](https://t.me/ptcbink)
